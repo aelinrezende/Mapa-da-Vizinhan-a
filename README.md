@@ -4,7 +4,7 @@ Está aplicação, construida com React, exibi o mapa da minha vizinhança (Coli
 
 ## Inicialização
 
-Primeiramente, cclone este repositório ou faça o download clicando [aqui](https://github.com/rogeralbinoi/udacity-reactnd-myreads/archive/master.zip).
+Primeiramente, clone este repositório ou faça o download clicando [aqui](https://github.com/MarcoRezende/Mapa-da-Vizinhan-a/archive/master.zip).
 
 Instale as dependencias através do seguinte comando:
 
