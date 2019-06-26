@@ -1,0 +1,11 @@
+[
+{"name":"Casa", "location":{"lat": -23.4240402, "lng": -46.8232757}, "id":0},
+{"name":"Colégio Municipal", "location":{"lat": -23.4248078, "lng": -46.8276017},"id":1},
+{"name":"Parque do Colinas da Anhanguera", "location":{"lat": -23.4248111, "lng": -46.8268533},"id":2},
+{"name":"Lojão Zeusmack", "location":{"lat": -23.4244457, "lng": -46.8254523},"id":3},
+{"name":"UBS Colinas", "location":{"lat": -23.430637, "lng": -46.8290142},"id":4},
+{"name":"Campo Municipal Colinas da Anhanguera", "location":{"lat": -23.4321451, "lng": -46.8279381},"id":5},
+{"name":"Fazenda Velha", "location":{"lat": -23.4327587, "lng": -46.8256828},"id":6},
+{"name":"Encanto Supermercados", "location":{"lat": -23.4272572, "lng": -46.8278016},"id":7},
+{"name":"Assembleia de Deus Paulistana", "location":{"lat": -23.4244261, "lng": -46.8248023},"id":8}
+]
